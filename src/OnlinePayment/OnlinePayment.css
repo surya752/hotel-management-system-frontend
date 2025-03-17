@@ -1,0 +1,17 @@
+.AmmaNanna {
+    height: 750px;
+    padding: 100px 500px;
+    position: relative;
+    border: 3px solid purple;
+    background: linear-gradient(rgba(132, 103, 129, 0.85), rgba(213, 149, 198, 0.85)), url("../Images/payment.gif") center/cover no-repeat;
+        color: #fff;
+}
+
+.paymentbutton {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
