@@ -1,6 +1,6 @@
 # Hotel-Management-System-Frontend
 
-![image alt] (https://github.com/surya752/hotel-management-system-frontend/blob/e43a11578b85bd817265f332ab5161e7535b0d3f/hms.png?raw-true)
+![image alt](https://github.com/surya752/hotel-management-system-frontend/blob/e43a11578b85bd817265f332ab5161e7535b0d3f/hms.png?raw-true)
 
 ## 🌟 Overview
 
