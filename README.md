@@ -1,5 +1,7 @@
 # Hotel-Management-System-Frontend
 
+![image alt] (https://github.com/surya752/hotel-management-system-frontend/blob/e43a11578b85bd817265f332ab5161e7535b0d3f/hms.png?raw-true)
+
 ## 🌟 Overview
 
 The Hotel Management System Frontend is a React-based application designed to streamline hotel operations. It offers an intuitive interface for managing various aspects of hotel management, such as room bookings, customer details, and operational insights. This project is part of a larger system aimed at enhancing the efficiency of hotel management processes.
